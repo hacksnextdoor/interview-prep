@@ -1,2 +1,2 @@
 # interview-prep
-All resources hnd's resources for landing you next SWE position 💴📚
+All hnd's resources for landing you next SWE position 💴📚
