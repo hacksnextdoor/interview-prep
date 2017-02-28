@@ -1,5 +1,13 @@
-import sys
+"""
+Given a sentence as e.g. "this is a dog" return the count of words in string
+- Spaces can be in the front and behind the string
+- Examples:
+    "this is a dog" >> 4
+    " i hate interviews so much " >> 5
+    "  must  studyyyy  more  " >> 3
+"""
 
+import sys
 def countWords(sent):
     # init variables
     i = 0
